@@ -65,6 +65,8 @@ public Web, private Application, and private Database tiers across
 two Availability Zones.
 ---
 
+
+
 ## ☁️ AWS Services
 
 The project uses the following AWS services and components:
