@@ -53,6 +53,9 @@ Windows EC2
    ▼
 Private Database Tier
 Amazon RDS MySQL
+
+---
+
 ## 🖼️ Architecture Diagram
 
 ![AWS 3-Tier Architecture](aws-3-tier-architecture.png)
@@ -60,6 +63,7 @@ Amazon RDS MySQL
 The architecture demonstrates a segmented AWS environment consisting of
 public Web, private Application, and private Database tiers across
 two Availability Zones.
+---
 
 ## ☁️ AWS Services
 
